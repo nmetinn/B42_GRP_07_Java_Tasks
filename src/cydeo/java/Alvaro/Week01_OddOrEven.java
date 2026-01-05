@@ -18,5 +18,7 @@ public class Week01_OddOrEven {
             System.out.println("Number is odd");
         }
 
+        System.out.println("I love Java");
+
     }
 }
