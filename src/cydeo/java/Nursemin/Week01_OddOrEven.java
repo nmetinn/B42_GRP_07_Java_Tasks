@@ -12,6 +12,12 @@ public class Week01_OddOrEven {
     }
 
     public static void oddOrEven(int number) {
+        if(number % 2==1){
+            System.out.println("Odd");
+        }else{
+            System.out.println("Even");
+        }
+        System.out.println("Group 7 is studying");
 
     }
 }
