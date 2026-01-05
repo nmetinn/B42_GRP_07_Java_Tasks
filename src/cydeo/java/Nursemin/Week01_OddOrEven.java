@@ -17,6 +17,7 @@ public class Week01_OddOrEven {
         }else{
             System.out.println("Even");
         }
+        System.out.println("Group 7 is studying");
 
     }
 }
