@@ -7,7 +7,6 @@ public class Week01_OddOrEven {
     }
 
     public static void oddOrEven(int number) {
-        int a = 27;
 
     }
 }
