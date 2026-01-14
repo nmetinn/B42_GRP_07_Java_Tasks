@@ -1,4 +1,4 @@
-package cydeo.java.Basri;
+package cydeo.java.Nigora;
 
 public class FINRA {
     /*

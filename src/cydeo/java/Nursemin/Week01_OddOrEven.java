@@ -9,6 +9,7 @@ public class Week01_OddOrEven {
           identify(6) -> "Even"
          */
         oddOrEven(5);;
+        oddOrEven(3);
     }
 
     public static void oddOrEven(int number) {
