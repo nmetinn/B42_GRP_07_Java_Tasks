@@ -9,9 +9,16 @@ public class Week01_OddOrEven {
           identify(6) -> "Even"
          */
         oddOrEven(5);;
+        oddOrEven(3);
     }
 
     public static void oddOrEven(int number) {
+        if(number % 2==1){
+            System.out.println("Odd");
+        }else{
+            System.out.println("Even");
+        }
+        System.out.println("Group 7 is studying");
 
     }
 }
