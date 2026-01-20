@@ -2,6 +2,7 @@ package cydeo.java.Asel;
 
 public class PrintConsecutiveNumbers {
     /*
+
     Numbers -- print consecutive numbers
 Write a function:
 that, given a positive integer N, prints the consecutive numbers from 1 to N, each on a separate line. However, any number
